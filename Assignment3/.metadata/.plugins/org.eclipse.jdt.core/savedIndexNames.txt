@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/home/sunbeam/sts ide/spring-tool-suite-4-4.22.0.RELEASE-e4.31.0-linux.gtk.x86_64/sts-4.22.0.RELEASE/java practice/Assignment3/.metadata/.plugins/org.eclipse.jdt.core
+1865797976.index
+998878400.index
+3443170566.index
